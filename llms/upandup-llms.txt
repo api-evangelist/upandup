@@ -1,0 +1,29 @@
+# Up&Up
+
+> Up&Up (Homevest Inc.) is a rental housing platform where renters build wealth while they rent. Instead of a traditional security deposit, renters contribute to an Up&Up Wallet that grows through their contributions, shared monthly rental profits, and home appreciation; at lease end they can buy the home, transfer the wallet to another rental, renew, or cash out. Up&Up is a Khosla Ventures portfolio company. It does not publish a public developer API.
+
+## Company
+
+- [Website](https://upandup.co/): Up&Up homepage
+- [How it works](https://upandup.co/how-it-works): The Up&Up Wallet rental model
+- [About us](https://upandup.co/about-us): Company background
+- [FAQ](https://upandup.co/faqs): Frequently asked questions
+- [Help Center](https://upandup.zendesk.com/hc/en-us): Zendesk support portal
+- [Find a home](https://app.upandup.co/homes): Browse available rental homes
+- [Apply](https://app.upandup.co/user/preapproval): Free renter pre-approval
+- [Sign in](https://app.upandup.co/account): Resident account login
+- [GitHub organization](https://github.com/homevest): Up&Up engineering (handle @homevest)
+
+## Legal
+
+- [Terms of Service](https://upandup.co/terms-of-service): Site terms (Homevest Inc.)
+- [Privacy Policy](https://upandup.co/privacy-policy): Privacy policy
+
+## APIs
+
+Up&Up operates a private application backend at https://api.upandup.co (no published
+documentation, OpenAPI, or developer program as of 2026-07-21).
+
+## Optional
+
+- [API Evangelist profile](https://raw.githubusercontent.com/api-evangelist/upandup/refs/heads/main/apis.yml): APIs.json machine-readable profile for Up&Up

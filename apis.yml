@@ -1,7 +1,25 @@
 aid: upandup
-name: Upandup
-description: Upandup is a company surfaced as a portfolio company of khosla-ventures and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Up&Up
+description: Up&Up (legal name Homevest Inc.) is a New York-based rental housing platform
+  that lets renters build wealth while they rent. Instead of a traditional security deposit,
+  renters contribute to an Up&Up Wallet that grows through their own contributions, a share
+  of monthly rental profits, and appreciation in the home's value; at lease end they can
+  buy the home, transfer the wallet to another Up&Up rental, renew, or cash out. Founded
+  by Michael Wong, Ryan Brown, and Ben Wong, and backed by Khosla Ventures, Up&Up operates
+  a consumer web application and a private backend at api.upandup.co, but publishes no
+  public developer API, documentation, or SDKs.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://avatars.githubusercontent.com/u/42585287?v=4
 url: https://raw.githubusercontent.com/api-evangelist/upandup/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +29,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Real Estate
+- Rentals
+- PropTech
+- Housing
+- FinTech
+- Homeownership
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +47,26 @@ maintainers:
 common:
 - type: Website
   url: https://upandup.co/
+- type: Support
+  url: https://upandup.zendesk.com/hc/en-us
+- type: FAQ
+  url: https://upandup.co/faqs
+- type: TermsOfService
+  url: https://upandup.co/terms-of-service
+- type: PrivacyPolicy
+  url: https://upandup.co/privacy-policy
+- type: SignUp
+  url: https://app.upandup.co/user/preapproval
+- type: Login
+  url: https://app.upandup.co/account
+- type: GitHubOrganization
+  url: https://github.com/homevest
+- type: LLMsTxt
+  url: llms/upandup-llms.txt
+- type: DomainSecurity
+  url: security/upandup-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
