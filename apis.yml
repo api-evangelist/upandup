@@ -8,6 +8,17 @@ description: Up&Up (legal name Homevest Inc.) is a New York-based rental housing
   by Michael Wong, Ryan Brown, and Ben Wong, and backed by Khosla Ventures, Up&Up operates
   a consumer web application and a private backend at api.upandup.co, but publishes no
   public developer API, documentation, or SDKs.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
